@@ -270,7 +270,7 @@ Collected, cleaned, and processed data from Excel and SharePoint, applying explo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leona-1808&theme=github_dark&bg_color=0d1117&color=B0C4DE&line=B0C4DE&point=B0C4DE&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leona-1808&theme=react-dark&bg_color=0d1117&color=B0C4DE&line=B0C4DE&point=B0C4DE&hide_border=true" width="100%"/>
 
 </div>
 
@@ -314,7 +314,7 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-leona-1808@gmail.com-22274D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leona-1808@gmail.com)
+[![Gmail](https://img.shields.io/badge/-leona--1808%40gmail.com-22274D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leona-1808@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-22274D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-leona-771283291/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A2140?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leona-1808)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-22274D?style=for-the-badge&logo=vercel&logoColor=white)](https://data-analytics.youware.app/)
