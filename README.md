@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2140&height=220&section=header&text=Grace%20Leona&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2140,50:22274D,100:1D4ED8&height=220&section=header&text=Grace%20Leona&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A2140&center=true&vCenter=true&width=650&lines=Building+AI-Driven+Full-Stack+Systems;Optimizing+Real-World+Problems+with+ML;Java+%7C+Python+%7C+Flask+%7C+React;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B0C4DE&center=true&vCenter=true&width=650&lines=Building+AI-Driven+Full-Stack+Systems;Optimizing+Real-World+Problems+with+ML;Java+%7C+Python+%7C+Flask+%7C+React;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,9 +21,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=leona-1808&style=flat-square&color=0A2140&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/leona-1808?style=flat-square&labelColor=0A2140&color=0A2140&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/leona-1808?style=flat-square&labelColor=0A2140&color=0A2140&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=leona-1808&style=flat-square&color=22274D&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/leona-1808?style=flat-square&labelColor=0A2140&color=22274D&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/leona-1808?style=flat-square&labelColor=0A2140&color=22274D&label=Stars&logo=github)
 
 </div>
 
