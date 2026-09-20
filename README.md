@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2140,50:22274D,100:B0C4DE&height=220&section=header&text=Grace%20Leona&fontSize=52&fontColor=EFF6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2140&height=220&section=header&text=Grace%20Leona&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B0C4DE&center=true&vCenter=true&width=650&lines=Building+AI-Driven+Full-Stack+Systems;Optimizing+Real-World+Problems+with+ML;Java+%7C+Python+%7C+Flask+%7C+React;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A2140&center=true&vCenter=true&width=650&lines=Building+AI-Driven+Full-Stack+Systems;Optimizing+Real-World+Problems+with+ML;Java+%7C+Python+%7C+Flask+%7C+React;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-22274D?labelColor=0A2140&style=flat-square&logo=academia&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.47-22274D?labelColor=0A2140&style=flat-square&logo=bookstack&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Kakinada,%20India-22274D?labelColor=0A2140&style=flat-square&logo=googlemaps&logoColor=white)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-0A2140?labelColor=0A2140&style=flat-square&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.47-0A2140?labelColor=0A2140&style=flat-square&logo=bookstack&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Kakinada,%20India-0A2140?labelColor=0A2140&style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22274D?style=for-the-badge&logo=vercel&logoColor=white)](https://data-analytics.youware.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22274D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-leona-771283291/)
-[![Email](https://img.shields.io/badge/Email-22274D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leona-1808@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A2140?style=for-the-badge&logo=vercel&logoColor=white)](https://data-analytics.youware.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2140?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-leona-771283291/)
+[![Email](https://img.shields.io/badge/Email-0A2140?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leona-1808@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0A2140?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leona-1808)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=leona-1808&style=flat-square&color=22274D&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/leona-1808?style=flat-square&color=22274D&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/leona-1808?style=flat-square&color=22274D&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=leona-1808&style=flat-square&color=0A2140&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/leona-1808?style=flat-square&labelColor=0A2140&color=0A2140&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/leona-1808?style=flat-square&labelColor=0A2140&color=0A2140&label=Stars&logo=github)
 
 </div>
 
@@ -71,12 +71,12 @@ I'm an **Aspiring Software Engineer** focused on building **AI/ML-powered full-s
 
 **Data Analytics**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-0A2140?style=flat-square&logo=powerbi&logoColor=B0C4DE)
-![Excel](https://img.shields.io/badge/Excel-0A2140?style=flat-square&logo=microsoftexcel&logoColor=B0C4DE)
-![Pandas](https://img.shields.io/badge/Pandas-0A2140?style=flat-square&logo=pandas&logoColor=B0C4DE)
-![NumPy](https://img.shields.io/badge/NumPy-0A2140?style=flat-square&logo=numpy&logoColor=B0C4DE)
-![SQL](https://img.shields.io/badge/SQL-0A2140?style=flat-square&logo=postgresql&logoColor=B0C4DE)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0A2140?style=flat-square&logo=powerautomate&logoColor=B0C4DE)
+![Power BI](https://img.shields.io/badge/Power%20BI-0A2140?style=flat-square&logo=powerbi&logoColor=FFFFFF)
+![Excel](https://img.shields.io/badge/Excel-0A2140?style=flat-square&logo=microsoftexcel&logoColor=FFFFFF)
+![Pandas](https://img.shields.io/badge/Pandas-0A2140?style=flat-square&logo=pandas&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NumPy-0A2140?style=flat-square&logo=numpy&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-0A2140?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0A2140?style=flat-square&logo=powerautomate&logoColor=FFFFFF)
 
 </div>
 
@@ -229,17 +229,17 @@ Collected, cleaned, and processed data from Excel and SharePoint, applying explo
 
 **Microsoft**
 
-[![Power Platform Solution Architect Expert](https://img.shields.io/badge/Power%20Platform-Solution%20Architect%20Expert-22274D?labelColor=0A2140&style=flat-square&logo=microsoft&logoColor=white)](https://drive.google.com/file/d/1dJEo3GCjFkjnjD1nG4C-cQIH3x8eMbxc/view?usp=sharing)
-[![Power Platform Developer Associate](https://img.shields.io/badge/Power%20Platform-Developer%20Associate-22274D?labelColor=0A2140&style=flat-square&logo=microsoft&logoColor=white)](https://drive.google.com/file/d/1upbVkMlPRsX36RjpQEHP0yIvzrimZzH3/view?usp=sharing)
+[![Power Platform Solution Architect Expert](https://img.shields.io/badge/Power%20Platform-Solution%20Architect%20Expert-0A2140?labelColor=0A2140&style=flat-square&logo=microsoft&logoColor=white)](https://drive.google.com/file/d/1dJEo3GCjFkjnjD1nG4C-cQIH3x8eMbxc/view?usp=sharing)
+[![Power Platform Developer Associate](https://img.shields.io/badge/Power%20Platform-Developer%20Associate-0A2140?labelColor=0A2140&style=flat-square&logo=microsoft&logoColor=white)](https://drive.google.com/file/d/1upbVkMlPRsX36RjpQEHP0yIvzrimZzH3/view?usp=sharing)
 
 **Oracle Academy**
 
-[![Database Foundations Associate](https://img.shields.io/badge/Database-Foundations%20Associate-22274D?labelColor=0A2140&style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1FGqO3rtGR9-SDrIX-TRZnVR1PmM5tOVw/view?usp=drive_link)
-[![Java Foundations Associate](https://img.shields.io/badge/Java-Foundations%20Associate-22274D?labelColor=0A2140&style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1AyQrwC9d3It-rYLA-WI2ddHnPox7mBvV/view?usp=drive_link)
+[![Database Foundations Associate](https://img.shields.io/badge/Database-Foundations%20Associate-0A2140?labelColor=0A2140&style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1FGqO3rtGR9-SDrIX-TRZnVR1PmM5tOVw/view?usp=drive_link)
+[![Java Foundations Associate](https://img.shields.io/badge/Java-Foundations%20Associate-0A2140?labelColor=0A2140&style=flat-square&logo=oracle&logoColor=white)](https://drive.google.com/file/d/1AyQrwC9d3It-rYLA-WI2ddHnPox7mBvV/view?usp=drive_link)
 
 **Red Hat Academy**
 
-[![RHCSA](https://img.shields.io/badge/Red%20Hat-Certified%20System%20Administrator-22274D?labelColor=0A2140&style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/ddbe6243-2c7b-47c4-b5a3-f9436f75db15/public_url)
+[![RHCSA](https://img.shields.io/badge/Red%20Hat-Certified%20System%20Administrator-0A2140?labelColor=0A2140&style=flat-square&logo=redhat&logoColor=white)](https://www.credly.com/badges/ddbe6243-2c7b-47c4-b5a3-f9436f75db15/public_url)
 
 ---
 
@@ -247,36 +247,14 @@ Collected, cleaned, and processed data from Excel and SharePoint, applying explo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leona-1808&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=B0C4DE&icon_color=B0C4DE&text_color=B0C4DE" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leona-1808&theme=dark&hide_border=true&background=0d1117&ring=B0C4DE&fire=B0C4DE&currStreakLabel=B0C4DE" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leona-1808&show_icons=true&theme=dark&hide_border=true&bg_color=0A2140&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leona-1808&theme=dark&hide_border=true&background=0A2140&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leona-1808&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=B0C4DE&text_color=B0C4DE" width="49%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=leona-1808&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leona-1808&layout=compact&theme=dark&hide_border=true&bg_color=0A2140&title_color=FFFFFF&text_color=FFFFFF" width="49%"/>
 
 </div>
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leona-1808&theme=react-dark&bg_color=0d1117&color=B0C4DE&line=B0C4DE&point=B0C4DE&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -314,10 +292,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-leona--1808%40gmail.com-22274D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leona-1808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-22274D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-leona-771283291/)
+[![Gmail](https://img.shields.io/badge/-leona--1808%40gmail.com-0A2140?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leona-1808@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A2140?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-leona-771283291/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A2140?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leona-1808)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-22274D?style=for-the-badge&logo=vercel&logoColor=white)](https://data-analytics.youware.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A2140?style=for-the-badge&logo=vercel&logoColor=white)](https://data-analytics.youware.app/)
 
 </div>
 
@@ -327,6 +305,6 @@ Open To:
 
 *"Build systems that don't just work — build systems that decide, adapt, and ship."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0C4DE,50:22274D,100:0A2140&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2140&height=120&section=footer" width="100%"/>
 
 </div>
